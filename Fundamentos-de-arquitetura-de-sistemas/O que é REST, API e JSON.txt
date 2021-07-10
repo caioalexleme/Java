@@ -1,0 +1,30 @@
+REST
+- REST - Representational State Transfer
+- É um estilo de arquitetura de software que define a implementação de um serviço web
+- Podem trabalhar com os formatos XML, JSON e outros
+
+Vantagens do REST
+- Permite integrações entre aplicações e também entre cliente e servidor em páginas web e aplicações .
+- Utiliza dos métodos HTTP para definir a operação que está sendo efetuada
+- Arquitetura de fácil compreensão
+
+* Quando uma aplicação web disponibiliza um conjunto de rotinas e padrões através de serviços web podemos chamar esse conjunto de aplicação
+
+API
+- API Application Programming Interface
+- São conjunto de rotinas documentados e disponibilizados por uma aplicação para que outras aplicações possam consumir suas funcionalidades.
+- Ficou popular com os serviços web
+- As maiores plataformas de tecnologia disponibilizam API's para acessos de suas funcionalidades, algumas delas são: Faceboook, Twitter, Telegram, WhatsApp, GitHub...
+
+Principais Métodos HTTP
+- GET - Solicita a representação de um recurso
+- POST - Solicita a criação de um recurso
+- DELETE - Solicita a exclusão de um recurso
+- PUT - Solicita a atualização de um recurso
+
+JSON
+- JavaScript Object Notation
+- Formatação leve utilizada para troca de mensagens entre sistemas.
+- Usa-se de uma estrutura de chave e valor e também de listas
+- Um dos formatos mais populares e mais utilizados para troca de mensagens entre sistemas.
+

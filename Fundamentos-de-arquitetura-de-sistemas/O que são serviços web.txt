@@ -1,0 +1,19 @@
+O que são Serviços Web?
+Serviços Web ou Web Services são soluções para aplicações se comunicarem idependentemente da liguagem, softwares e hardwares utilizados.
+
+inicialmente Serviços Web foram criados para troca de mensagens utlizando a linguagem XML (Extensible Markup Language) sobre o protocolo HTTP sendo identificado por URI (Uniform Resource Identifier).
+
+Podemos dizer que Serviços Web são API's que se comunicam por meio de redes sobre o protocolo HTTP.
+
+Vantangens:
+- Linguagem comum 
+- Integração
+- Reutilização de implementação
+- Segurança
+- Custos
+
+Principais tenologias:
+- SOAP
+- REST
+- XML
+- JSON
