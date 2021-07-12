@@ -1,0 +1,7 @@
+Onde é mais complexo:
+- Processos Assíncronos (Microserviços#2)
+- Pipeline
+
+Solução:
+- Dead letter queue
+- Filas de re-tentativas
