@@ -1,6 +1,6 @@
 MQTT
 
 Base na pilha do TCP/IP
-Protocolo de mensagem assíncrona (M2M)
-Criado pela IBM para conectar sensores de pipelines de petróleo a satélites
-Padrão OASIS suportado pelas linguagens de programação mais populares
+Protocolo de mensagem assíncrona (M2M).
+Criado pela IBM para conectar sensores de pipelines de petróleo a satélites.
+Padrão OASIS suportado pelas linguagens de programação mais populares.
