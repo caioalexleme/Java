@@ -1,0 +1,14 @@
+Porquê conectar as coisas?
+- Embutir sensores em objetos do dia a dia
+- Coletar dados dos sensores
+- Usar o dado para tomar a decisão
+
+Computação Úbiqua por Wark Weiser
+A Computação Úbiqua é a terceira onda da computação que está apenas começando. Primeiro tivemos os mainframes compartilhados por várias pessoas. Estamos na era da computação pessoal com pessoas e máquinas estranhando umas as outras. A seguir vem a computação úbiqua a era da tecnologia 'calma' quando a tecnologia recua para o pano de fundo de nossas vidas.
+As tecnologias mais importantes são aquelas que desaparecem. Elas se integram à vida do dia a dia ao nosso cotidiano até serem indistinguíveis dele.
+
+Desafios da internet das coisas:
+1) Privacidade e segurança
+2) Quantidade exponencial de dispositivos conectadas na rede
+3) Ser capaz de processar e armazenar uma enorme quantidade de informações
+4) Gerar valor a partir dos dados coletados
