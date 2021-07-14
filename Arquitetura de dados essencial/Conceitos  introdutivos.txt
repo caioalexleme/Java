@@ -1,0 +1,9 @@
+Modelo sustentável
+- Estruturação
+- Durabilidade
+- Velocidade
+- Controle de acesso
+- Isolamento
+1) O que podemos extrair de dados brutos? R. Informações e com ela o conhecimento.
+2)Quais das alternativas estão corretas com relação a um banco de dados relacional?
+e) A e C - a)As entidades são chamadas de tabelas. b) As colunas também são chamadas de tuplas.

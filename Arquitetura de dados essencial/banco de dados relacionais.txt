@@ -1,0 +1,14 @@
+Banco de dados relacionais
+Sistemas gerencias: SGDBR - RDBMS
+Forekey = chave estrangeira
+primary key = chave primária
+
+Modelagem
+1 Modelo conceitual - MER pode ser representado através do DER
+2 Modelo lógico - Implementação
+
+Normalização 1ª a 5ª - 1, 2, 3ª mais comum
+
+DDL - Data definition language
+DML - Data Manipulation language
+DQL - Data Query Language
