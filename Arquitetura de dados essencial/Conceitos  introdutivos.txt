@@ -7,3 +7,5 @@ Modelo sustentável
 1) O que podemos extrair de dados brutos? R. Informações e com ela o conhecimento.
 2)Quais das alternativas estão corretas com relação a um banco de dados relacional?
 e) A e C - a)As entidades são chamadas de tabelas. b) As colunas também são chamadas de tuplas.
+3) O que é DML? R. Data Manipulation Language
+4) O que não faz parte do conceito ACID? R. Continuidade
